@@ -1,4 +1,4 @@
-package com.creepersan.root_manager;
+package com.creepersan.rootmanagerdemo;
 
 import org.junit.Test;
 

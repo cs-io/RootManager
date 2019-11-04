@@ -1,1 +1,2 @@
-include ':app', ':root_manager'
+include ':app', ':rootmanager'
+rootProject.name='RootManagerDemo'
